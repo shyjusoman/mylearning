@@ -1,0 +1,9 @@
+CREATE TABLE PERSON(
+   id INT NOT NULL AUTO_INCREMENT,
+   name VARCHAR(100) NOT NULL,
+   gender VARCHAR(40) NOT NULL,
+   email_address VARCHAR(100) NOT NULL,
+   birthday DATE,
+   PRIMARY KEY (id)
+   );
+   

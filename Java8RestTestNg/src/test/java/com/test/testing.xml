@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestNgMavenExampleSuite" parallel="false">
+ <test name="TestNgMavenTest">
+   <classes>
+     <class name="com.test.PersonServiceApproach1"/>
+     <class name="com.test.PersonServiceApproach2"/>
+     <class name="com.test.PersonServiceApproach3"/>
+     <class name="com.test.PersonServiceApproach4"/>
+     <class name="com.test.PersonServiceApproach5"/>
+     <class name="com.test.PersonServiceApproach6"/>
+     <class name="com.test.PersonServiceApproach7"/>
+     <class name="com.test.PersonServiceApproach8"/>
+     <class name="com.test.PersonServiceApproach9"/>
+   </classes>
+	</test>
+</suite>
